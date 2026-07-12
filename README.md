@@ -1,11 +1,12 @@
+
 # Hi there 👋 I'm Suman Kalyan Sahoo
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4F46E5,30:6D28D9,70:7C3AED,100:8B5CF6&text=Suman%20Kalyan%20Sahoo&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20|%20AI%20Engineer%20|%20Full%20Stack%20Developer&descAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4F46E5,25:6D28D9,50:7C3AED,75:8B5CF6,100:A855F7&text=Suman%20Kalyan%20Sahoo&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3500&pause=900&color=8B5CF6&center=true&vCenter=true&width=950&lines=Software+Engineer;AI+Engineer;Full+Stack+Developer;AI+%26+ML+Enthusiast;Building+Scalable+Products"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=800&color=8B5CF6&center=true&vCenter=true&width=900&lines=Software+Engineer;AI+%26+ML+Engineer;Full+Stack+Developer;Backend+Enthusiast;Building+Scalable+Products"/>
 </p>
 
 <p align="center">
@@ -13,97 +14,94 @@
 ![](https://img.shields.io/badge/B.Tech-CSE-6D28D9?style=for-the-badge)
 ![](https://img.shields.io/badge/CGPA-9.41-7C3AED?style=for-the-badge)
 ![](https://img.shields.io/badge/SAP-Certified-5B21B6?style=for-the-badge)
-![](https://img.shields.io/badge/Location-Odisha,%20India-4338CA?style=for-the-badge)
-
-</p>
-
-<p align="center">
-<a href="https://sumankalyansahoo.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/suman-kalyan-sahoo-824292232"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/></a>
-<a href="mailto:sumankalsahoo@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail"/></a>
-<a href="https://github.com/SumanKalyanSahoo"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/></a>
-</p>
-
-<p align="center">
-
 ![](https://komarev.com/ghpvc/?username=SumanKalyanSahoo&style=for-the-badge&color=6D28D9)
-![](https://img.shields.io/github/followers/SumanKalyanSahoo?style=for-the-badge&label=Followers)
-![](https://img.shields.io/github/stars/SumanKalyanSahoo?style=for-the-badge&label=Stars)
 
+</p>
+
+<p align="center">
+<a href="https://sumankalyansahoo.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge&logo=vercel"/></a>
+<a href="https://www.linkedin.com/in/suman-kalyan-sahoo-824292232"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+<a href="mailto:sumankalsahoo@gmail.com"><img src="https://img.shields.io/badge/Email-Gmail-D14836?style=for-the-badge&logo=gmail"/></a>
+<a href="https://github.com/SumanKalyanSahoo"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/></a>
 </p>
 
 ---
 
-# About
+# About Me
 
-Software Engineer passionate about AI, Full Stack Development, Backend Engineering, Cloud Computing, and scalable software systems. B.Tech CSE graduate (CGPA 9.41) with internship experience and hands-on AI healthcare research.
+Software Engineer with a strong Computer Science foundation and a passion for AI, backend engineering, cloud technologies, and full-stack product development. I enjoy building performant applications, solving algorithmic challenges, and developing AI-powered solutions with real-world impact.
+
+**Open to:** Software Engineer • Backend Engineer • Full Stack Engineer • AI/ML Engineer
 
 ---
 
 # Tech Stack
 
-**Languages**
-
+### Languages
 <img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,sql"/>
 
-**Frontend**
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind"/>
 
-<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap"/>
-
-**Backend & Databases**
-
+### Backend & Databases
 <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,mysql"/>
 
-**Cloud & Tools**
-
+### Cloud • DevOps • Tools
 <img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,postman,vscode"/>
 
 ---
 
 # AI / ML Expertise
 
-| Domain | Proficiency | Details |
+| Domain | Level | Highlights |
 |---|---|---|
-| Machine Learning | Advanced | Classification, preprocessing |
-| Computer Vision | Intermediate | MRI analysis |
-| Generative AI | Advanced | LLMs, Prompt Engineering |
-| NLP | Intermediate | Embeddings, text processing |
+| Machine Learning | Advanced | Classification, Evaluation |
+| Computer Vision | Intermediate | MRI Analysis |
+| Generative AI | Advanced | Prompt Engineering, LLMs |
+| NLP | Intermediate | Embeddings |
+| Data Analysis | Advanced | NumPy, Pandas |
 
 ---
 
 # Featured Projects
 
-<details><summary><b>HemoSync</b></summary>
+<details><summary><b>🩸 HemoSync</b></summary>
 
 Healthcare blood bank platform.
 
-| Category | Details |
+| Item | Details |
 |---|---|
 | Stack | MERN |
-| Live | https://hemosync-in.netlify.app/ |
-| Impact | Digital blood management |
+| Demo | https://hemosync-in.netlify.app/ |
+| Impact | Blood donor & inventory management |
 
 </details>
 
-<details><summary><b>Unity Bank</b></summary>
+<details><summary><b>🏦 Unity Bank</b></summary>
 
-Modern banking application.
+Modern online banking application.
 
-| Category | Details |
+| Item | Details |
 |---|---|
 | Stack | MERN |
-| Live | https://unity-bank.onrender.com/ |
+| Demo | https://unity-bank.onrender.com/ |
 
 </details>
 
-<details><summary><b>Weather Website</b></summary>
+<details><summary><b>🌦 Weather Website</b></summary>
 
-Weather application using APIs.
+Responsive weather application consuming public APIs.
 
-| Category | Details |
+| Item | Details |
 |---|---|
-| Stack | HTML CSS JavaScript |
-| Live | https://sumankalyansahoo.github.io/Weather_Website/ |
+| Stack | HTML • CSS • JavaScript |
+| Demo | https://sumankalyansahoo.github.io/Weather_Website/ |
+
+</details>
+
+<details><summary><b>🧠 Alzheimer's MRI Detection</b></summary>
+
+Research-oriented AI project for Alzheimer's disease detection and classification.
 
 </details>
 
@@ -111,15 +109,15 @@ Weather application using APIs.
 
 # Experience
 
-## Web Developer Intern — The Sparks Foundation
-
+### Web Developer Intern — The Sparks Foundation
 - Banking Website
-- HTML, CSS, JavaScript
+- Responsive UI
+- JavaScript
 
-## Frontend Developer Intern — Bharat Intern
-
+### Frontend Developer Intern — Bharat Intern
 - Netflix Clone
 - Weather Application
+- REST API Integration
 
 ---
 
@@ -146,7 +144,7 @@ Weather application using APIs.
 </p>
 
 <p align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumanKalyanSahoo&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumanKalyanSahoo&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -172,15 +170,17 @@ Weather application using APIs.
 ```yaml
 Learning:
   - System Design
-  - AWS
-  - Docker
   - Kubernetes
+  - AWS
+
 Building:
-  - AI Healthcare Applications
+  - AI Healthcare
   - Full Stack Products
+
 Exploring:
   - Generative AI
   - RAG
+
 Open To:
   - Software Engineer
   - Backend Engineer
@@ -196,10 +196,8 @@ Open To:
 - Email: sumankalsahoo@gmail.com
 - GitHub: https://github.com/SumanKalyanSahoo
 
----
-
-> Engineering scalable software with curiosity and continuous learning.
+> *Engineering scalable software with curiosity, craftsmanship, and continuous learning.*
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=160&color=0:4F46E5,30:6D28D9,70:7C3AED,100:8B5CF6"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:4F46E5,100:A855F7"/>
 </p>
